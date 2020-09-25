@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>我是测试文章3</title>
+      <link href="posts/27a8c2fb/"/>
+      <url>posts/27a8c2fb/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h1><p>如果你想使用 aplayer，很多人都會推薦安裝 hexo-tag-aplayer 這款插件。這款插件通過 Hexo 獨有的標籤外掛，我們可以很方便的寫入一些參數，插件就會幫我們生成對應的 html。如果你只是使用一些簡單的功能，其實無需使用到這個插件，只需以 html 格式書寫就行，不用插件去轉換。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">if(you is not love me)</span><br><span class="line">&#123;</span><br><span class="line">  1</span><br><span class="line">&#125;</span><br><span class="line">eles</span><br><span class="line">&#123;</span><br><span class="line">  2</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><div class="note default"><p>default提示块标签</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 1 </tag>
+            
+            <tag> 2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>26岁，你看着身边的人都结了婚</title>
       <link href="posts/c6c35b0b/"/>
       <url>posts/c6c35b0b/</url>
@@ -71,33 +98,6 @@
         <tags>
             
             <tag> 情感 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我是测试文章3</title>
-      <link href="posts/27a8c2fb/"/>
-      <url>posts/27a8c2fb/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h1><p>如果你想使用 aplayer，很多人都會推薦安裝 hexo-tag-aplayer 這款插件。這款插件通過 Hexo 獨有的標籤外掛，我們可以很方便的寫入一些參數，插件就會幫我們生成對應的 html。如果你只是使用一些簡單的功能，其實無需使用到這個插件，只需以 html 格式書寫就行，不用插件去轉換。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">if(you is not love me)</span><br><span class="line">&#123;</span><br><span class="line">  1</span><br><span class="line">&#125;</span><br><span class="line">eles</span><br><span class="line">&#123;</span><br><span class="line">  2</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><div class="note default"><p>default提示块标签</p></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 1 </tag>
-            
-            <tag> 2 </tag>
             
         </tags>
       
